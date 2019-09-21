@@ -23,7 +23,6 @@ html, body {
   background-color: #4AAAA4;
   position: absolute;
   bottom: 0;
-  padding: 20px;
 }
 
 .name-nav {
@@ -42,7 +41,6 @@ html, body {
 }
 .jumbotron {
   background-color: #fff;
-  margin-top: 20px;
 }
 
 /*Typography*/
