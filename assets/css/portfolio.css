@@ -1,0 +1,24 @@
+.portfolio-container {
+  margin-top: 20px;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.port-items {
+  margin-bottom: 20px
+} 
+
+.btn-primary {
+  width: 100%;
+  border-radius: 0;
+  background-color: #4AAAA4;
+  border: none;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.card {
+  margin: 10px 0px;
+}
